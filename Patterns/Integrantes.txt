@@ -1,0 +1,15 @@
+Sebastian Herrera Hernandez 
+Juan Sebastian Gomez Lopez
+:)
+
+Preguntas
+Compilar y ejecutar
+
+Ejecutar la clase con su nombre y apellido como parámetro. ¿Qué sucedió?
+	Imprime el numero y el apellido normal :)
+
+Hacer el esqueleto de la aplicacion
+
+¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+La unica que funciona es usando como parametro Hexagon debido a que es el unico definido en RegularShapeType 
+	
